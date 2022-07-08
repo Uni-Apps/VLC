@@ -3,5 +3,4 @@
   gather_facts: yes
 
   roles:
-  - role: rpmfusion
-#  - role: vlc
+  - role: vlc

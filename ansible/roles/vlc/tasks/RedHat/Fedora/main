@@ -1,8 +1,7 @@
 ---
-- name: Install 
+- name: Install VLC 
   ansible.builtin.dnf:
     name:
-      - httpd
-      - mariadb-server
+      - vlc
     state: latest
   become: true
