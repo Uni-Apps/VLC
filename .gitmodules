@@ -1,0 +1,3 @@
+[submodule "depends/source.RPMFusion"]
+	path = depends/source.RPMFusion
+	url = https://github.com/Unicorn-OS/source.RPMFusion.git
