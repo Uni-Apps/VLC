@@ -1,3 +1,6 @@
 [submodule "depends/source.RPMFusion"]
 	path = depends/source.RPMFusion
 	url = https://github.com/Unicorn-OS/source.RPMFusion.git
+[submodule ".graph/dependency/source.RPMFusion"]
+	path = .graph/dependency/source.RPMFusion
+	url = https://github.com/Unicorn-OS/source.RPMFusion.git
