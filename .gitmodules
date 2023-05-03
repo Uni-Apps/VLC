@@ -1,3 +1,0 @@
-[submodule "ansible/.this/dependency/source.RPMFusion"]
-	path = ansible/.this/dependency/source.RPMFusion
-	url = https://github.com/Unicorn-OS/source.RPMFusion.git
