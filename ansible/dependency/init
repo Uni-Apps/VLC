@@ -1,3 +1,5 @@
-git clone https://github.com/Unicorn-OS/source.RPMFusion.git
+if [[ ! -d source.RPMFusion ]];then
+	git clone https://github.com/Unicorn-OS/source.RPMFusion.git
+fi
 
-ln -srf source.RPMFusion/ansible/roles/rpmfusion ../../roles/
+ln -srf source.RPMFusion/ansible/roles/rpmfusion ../roles/
