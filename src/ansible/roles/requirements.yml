@@ -1,0 +1,6 @@
+---
+roles:
+- UniInc.VLC
+
+collections:
+- name: kewlfft.aur

@@ -1,7 +1,0 @@
-config_dir: "config/vlc"
-
-config_path: "{{ flatpak_path }}/{{ config_dir }}"
-
-config_files:
-- vlc-qt-interface.conf
-- vlcrc

@@ -1,6 +1,0 @@
-- name: Disable Subtitles (config file)
-  ansible.builtin.copy:
-    src: "{{ config_dir }}/{{ item }}"
-    dest: "{{ config_path }}"
-  loop: "{{ config_files }}"
-
